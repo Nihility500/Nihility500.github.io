@@ -1,3 +1,4 @@
+https://nihility500.github.io/2023/09/11/%E5%A4%8D%E4%B9%A0%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3%E7%AD%89/
 https://nihility500.github.io/2023/09/01/node-js%E5%AD%A6%E4%B9%A0/
 https://nihility500.github.io/2023/04/05/java%E8%BF%9B%E9%98%B6/
 https://nihility500.github.io/2023/04/05/java%E5%9F%BA%E7%A1%80/
@@ -15,6 +16,7 @@ https://nihility500.github.io/tags/java/
 https://nihility500.github.io/tags/easyX/
 https://nihility500.github.io/tags/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/
 https://nihility500.github.io/tags/node-js/
+https://nihility500.github.io/tags/Java/
 https://nihility500.github.io/categories/Database/
 https://nihility500.github.io/categories/Java/
 https://nihility500.github.io/categories/%E7%BD%91%E7%BB%9C%E5%BC%80%E5%8F%91/
